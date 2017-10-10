@@ -1,0 +1,16 @@
+﻿Summary: [Platform\Portal\Mobile\Req\UX] short description of issue
+Description:
+*Env*: 
+*Build*: 
+*Steps to repro*:
+*Prereq*:
+
+# 
+
+*Expected*: 
+*Actual*: 
+Affects Version: Release 2.0
+Labels: mobile/platform/portal/requirement/ux
+Assign:
+to Pablo and move to dev’s backlog defect list
+If urgent (blocker), assign to developer and set the Sprint value and get the defect opened (Tony/Sean/Pablo can open defects)
