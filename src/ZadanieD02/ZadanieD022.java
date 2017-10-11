@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 public class ZadanieD022 {
     static boolean isSavePossible = true;
-    private static int arraySize;
 
     public static void main(String[] args) {
 
@@ -18,7 +17,6 @@ public class ZadanieD022 {
         int size = getArraySize();
         double[] array = createArray(size);
         fillArray(array);
-
         saveArrayToFile(array);
 
     }
