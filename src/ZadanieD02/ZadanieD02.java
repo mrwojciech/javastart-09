@@ -13,6 +13,7 @@ public class ZadanieD02 {
         int size = 0;
         Scanner scanner = new Scanner(System.in);
         boolean isSavePossible = true;
+
         try {
             System.out.println("Podaj wielkosc tablicy: ");
             size = scanner.nextInt();
